@@ -9,3 +9,25 @@ JDBC (Java Database Connectivity) is an API (Application Programming Interface) 
 ✔️ Efficient database interaction<br>
 ✔️ Secure and robust
 
+# SERBLETS
+---
+A Servlet is a Java class used to extend the capabilities of a web server by handling requests and generating dynamic responses. Servlets run on a Java EE (Jakarta EE) Server and are the foundation of Java-based web applications.
+
+# Advantages of Servlets
+---
+✔ Portable – Write once, run anywhere.
+✔ Efficient – Uses threads instead of creating new processes.
+✔ Secure – Supports HTTPS, authentication, and session tracking.
+✔ Integration – Works with Java technologies like JDBC, JSP, and EJB.
+
+# JSP
+---
+JSP (JavaServer Pages) is a technology used to create dynamic web pages using Java. It is part of the Java EE (Enterprise Edition) platform and allows developers to embed Java code into HTML using special JSP tags.
+
+# Advantages of JSP:
+---
+✔ Easier to use than servlets for UI development.
+✔ Supports JavaBeans and custom tags for modular programming.
+✔ Reduces server processing by caching precompiled JSP pages.
+✔ Provides implicit objects like request, response, session, etc.
+
