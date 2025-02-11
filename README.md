@@ -4,8 +4,8 @@ JDBC (Java Database Connectivity) is an API (Application Programming Interface) 
 
 # Advantages of JDBC
 ---
-✔️ Platform-independent<bt>
-✔️ Supports multiple databases<bt>
-✔️ Efficient database interaction<bt>
+✔️ Platform-independent<br>
+✔️ Supports multiple databases<br>
+✔️ Efficient database interaction<br>
 ✔️ Secure and robust
 
